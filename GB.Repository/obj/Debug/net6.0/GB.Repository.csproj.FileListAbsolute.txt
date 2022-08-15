@@ -1,0 +1,17 @@
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\bin\Debug\net6.0\GB.Repository.deps.json
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\bin\Debug\net6.0\GB.Repository.runtimeconfig.json
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\bin\Debug\net6.0\GB.Repository.dll
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\bin\Debug\net6.0\ref\GB.Repository.dll
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\bin\Debug\net6.0\GB.Repository.pdb
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\GB.Repository.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\GB.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\GB.Repository.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\GB.Repository.AssemblyInfo.cs
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\GB.Repository.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\GB.Repository.dll
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\ref\GB.Repository.dll
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\GB.Repository.pdb
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\GB.Repository.genruntimeconfig.cache
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\bin\Debug\net6.0\GB.DataAccess.dll
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\bin\Debug\net6.0\GB.DataAccess.pdb
+C:\Users\moham\source\repos\GuestbookDemo\GB.Repository\obj\Debug\net6.0\GB.Repository.csproj.CopyComplete

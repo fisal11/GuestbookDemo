@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\bin\Debug\net6.0\GB.DataAccess.deps.json
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\bin\Debug\net6.0\GB.DataAccess.runtimeconfig.json
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\bin\Debug\net6.0\GB.DataAccess.dll
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\bin\Debug\net6.0\ref\GB.DataAccess.dll
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\bin\Debug\net6.0\GB.DataAccess.pdb
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\obj\Debug\net6.0\GB.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\obj\Debug\net6.0\GB.DataAccess.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\obj\Debug\net6.0\GB.DataAccess.AssemblyInfo.cs
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\obj\Debug\net6.0\GB.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\obj\Debug\net6.0\GB.DataAccess.dll
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\obj\Debug\net6.0\ref\GB.DataAccess.dll
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\obj\Debug\net6.0\GB.DataAccess.pdb
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\obj\Debug\net6.0\GB.DataAccess.genruntimeconfig.cache
+C:\Users\moham\source\repos\GuestbookDemo\GB.DataAccess\obj\Debug\net6.0\GB.DataAccess.csproj.AssemblyReference.cache

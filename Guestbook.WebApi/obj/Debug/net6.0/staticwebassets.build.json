@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "59XuON5JgFeRhszHnEJVhYhFzLFNNtdTTOhU5KtWF7A=",
+  "Source": "Guestbook.WebApi",
+  "BasePath": "_content/Guestbook.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4748927-fd81-492b-8ad6-09183bb978a1": {
+      "ProjectGuid": "a4748927-fd81-492b-8ad6-09183bb978a1",
+      "DisplayName": "Guestbook.WebApi",
+      "ColorIndex": 0
+    },
+    "6cc98c11-a168-44b2-9057-c6b57889e7f0": {
+      "ProjectGuid": "6cc98c11-a168-44b2-9057-c6b57889e7f0",
+      "DisplayName": "GB.Services",
+      "ColorIndex": 1
+    },
+    "4fe8335b-b756-421b-a891-cc258714e2a4": {
+      "ProjectGuid": "4fe8335b-b756-421b-a891-cc258714e2a4",
+      "DisplayName": "GB.Repository",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "63969de2-c13e-4615-9990-4dc123e7f4b3": {
+      "ProjectGuid": "63969de2-c13e-4615-9990-4dc123e7f4b3",
+      "DisplayName": "GB.DataAccess",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
